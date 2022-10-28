@@ -10,7 +10,7 @@ A really litle project to animate a neopixel ring on the rocket cloud base.
 * Thonny app to code the app and send it to the Rasp Pico
 
 ## Before to start
-There is plenty of fucking "documentation" from people working with $$INDOW$$. Ha fuck.
+There is plenty of fucking "documentation" from people working with $INDOW$. Ha fuck.
 
 So with LINUX:
 1. first point is to be sure of the cable: some USB cable are just for power; we need a power and DATA cable to program
