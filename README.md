@@ -24,6 +24,8 @@ Yeah there is nothing just strait to the main point
 * Raspberry:
 https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
+![PICO](https://www.raspberrypi.com/documentation/microcontrollers/images/MicroPython-640x360-v2.gif)
+
 * A mix of source code from here
 https://makersportal.com/blog/ws2812-ring-light-with-raspberry-pi-pico
 
