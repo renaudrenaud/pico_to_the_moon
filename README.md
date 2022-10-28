@@ -3,14 +3,14 @@ Raspberry PICO Neopixel ring code inside the rocket.
 
 A really litle project with a Raspberry Pico, a neopixel ring and few lines of code for the rocket.
 
-## Compoenents
+## Components
 * one Raspberry Pi Pico
 * one 16 LEDS neopixel ring, it works better with 16 then 24 or more LEDs
 * one USB cable to power the Raspberry
 * Thonny app to code the app and send it to the Rasp Pico
 
 ## Before to start
-There is plenty of fucking "documentation" from people working with $INDOW$. Ha fuck.
+There is plenty of "fucking documentation" from people working with ZINDOWZ: fuck!
 
 So with LINUX:
 1. first point is to be sure of the cable: some USB cable are just for power; we need a power and DATA cable to program
@@ -27,5 +27,8 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 * A mix of source code from here
 https://makersportal.com/blog/ws2812-ring-light-with-raspberry-pi-pico
 
-* Pierre Muth for the crazy 3D design
-https://pierremuth.files.wordpress.com/2018/09/assembly.gif?w=625
+* [Pierre Muth design](https://pierremuth.wordpress.com/2018/09/08/destination-moon/)
+
+![Pierre Muth for the crazy 3D design](https://pierremuth.files.wordpress.com/2018/09/assembly.gif?w=625)
+
+
