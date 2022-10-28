@@ -1,7 +1,7 @@
 # pico_to_the_moon
-Raspberry PICO Neopixel ring code inside the rocket
+Raspberry PICO Neopixel ring code inside the rocket.
 
-A really litle project to animate a neopixel ring on the rocket cloud base.
+A really litle project with a Raspberry Pico, a neopixel ring and few lines of code for the rocket.
 
 ## Compoenents
 * one Raspberry Pi Pico
@@ -26,3 +26,6 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
 * A mix of source code from here
 https://makersportal.com/blog/ws2812-ring-light-with-raspberry-pi-pico
+
+* Pierre Muth for the crazy 3D design
+https://pierremuth.files.wordpress.com/2018/09/assembly.gif?w=625
