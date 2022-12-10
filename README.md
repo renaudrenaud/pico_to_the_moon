@@ -18,7 +18,9 @@ With LINUX:
 3. push the button BOOTSEL on the PICO and power the card
 4. when the PICO file system is recognized, push the UF2 file on the RPI-RP2 Mass storage, it will reboot the Pico in programming mode
 5. use Thonny to push the code, use icons Stop And Start to gain access to the PICO. Sometimes the PICO is disconnected, restart from point 3
-6. first time using Thonny requires: sudo usermod -a -G dialout renaud
+6. first time using Thonny requires: 
+* sudo usermod -a -G dialout renaud 
+* or sudo chmod a+rw /dev/ttyACM0
 
 ## Documentation Links and books
 * Raspberry:
