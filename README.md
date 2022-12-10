@@ -1,20 +1,19 @@
 # pico_to_the_moon
 Raspberry PICO Neopixel ring code inside the rocket.
 
-A really litle project with a Raspberry Pico, a neopixel ring and few lines of code for the rocket.
+A really litle project with a Raspberry Pico, a neopixel ring and few lines of code for the rocket or something else.
 
 ## Components
 * one Raspberry Pi Pico
-* one 16 LEDS neopixel ring, it works better with 16 then 24 or more LEDs
+* one 16 or 24 LEDS neopixel ring, it works better with 16 then 24 or more LEDs
 * one USB cable to power the Raspberry
 * Thonny app to code the app and send it to the Rasp Pico
 
 ## Before to start
-There is plenty of "fucking documentation" from people working with ZINDOWZ: fuck!
+There is plenty of "f******* documentation" from people working with ZINDOWZ: f***!
 
-So with LINUX:
+With LINUX:
 1. first point is to be sure of the cable: some USB cable are just for power; we need a power and DATA cable to program
-Yeah there is nothing just strait to the main point
 2. second we need the UF2 file [from the Raspberry Fundation](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 3. push the button BOOTSEL on the PICO and power the card
 4. when the PICO file system is recognized, push the UF2 file on the RPI-RP2 Mass storage, it will reboot the Pico in programming mode
