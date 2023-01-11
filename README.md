@@ -28,6 +28,10 @@ https://www.raspberrypi.com/documentation/microcontrollers/micropython.html
 
 ![PICO](https://www.raspberrypi.com/documentation/microcontrollers/images/MicroPython-640x360-v2.gif)
 
+* GPIO
+![image](https://user-images.githubusercontent.com/9823965/211700097-bbbd6938-f06b-4433-bc5a-569afd6f75ff.png)
+
+
 * A mix of source code from here
 https://makersportal.com/blog/ws2812-ring-light-with-raspberry-pi-pico
 
